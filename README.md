@@ -1,0 +1,1 @@
+This application aims to test players through five multiple-choice questions, imposing a strict 10-second limit on each to evaluate their knowledge and quick thinking. Emphasizing a minimalist design and effective functionality, it includes a live scoring system, a countdown timer, and a feedback screen that reflects the player’s performance.
