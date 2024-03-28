@@ -2,4 +2,7 @@ This application aims to test players through five multiple-choice questions, im
 
 
 Screenshots:
+
+
+
 ![image](https://github.com/AhmadBakri7/Simple-Quiz-App/assets/140534294/f6ee520c-b56c-41b3-aa0b-64068c187b55)
