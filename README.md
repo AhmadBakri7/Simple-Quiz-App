@@ -4,12 +4,12 @@ This application aims to test players through five multiple-choice questions, im
 
 ## Functionality
 
-A set of five questions, each with a multiple-choice format
-Each question offers four potential answers
-Scores are updated instantly
-Each question is timed with a 10-second limit
-Results are shown at the end, including feedback and the total score
-An option to reset and play the quiz again
+-A set of five questions, each with a multiple-choice format
+-Each question offers four potential answers
+-Scores are updated instantly
+-Each question is timed with a 10-second limit
+-Results are shown at the end, including feedback and the total score
+-An option to reset and play the quiz again
   
 ## Screenshots
 
