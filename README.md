@@ -13,5 +13,20 @@ This application aims to test players through five multiple-choice questions, im
   
 ## Screenshots
 
+###
+Screenshots 1
 <img src="https://github.com/AhmadBakri7/Simple-Quiz-App/assets/140534294/838138ad-a174-45c8-bb07-823555763143" alt="Screenshot 1" width="300" />
+
+
+## Let's Started
+
+To get started with the Simple Quiz Game app, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   https://github.com/AhmadBakri7/Simple-Quiz-App.git  
+
+2. Open the project in Android Studio.
+3. Build and run the app on an Android device or emulator.
 
