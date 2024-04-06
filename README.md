@@ -14,6 +14,7 @@ This application aims to test players through five multiple-choice questions, im
 ## Screenshots
 
 ###
+
 Screenshots 1
 <img src="https://github.com/AhmadBakri7/Simple-Quiz-App/assets/140534294/838138ad-a174-45c8-bb07-823555763143" alt="Screenshot 1" width="300" />
 
